@@ -15,7 +15,7 @@ import {
   ActionsContainer,
 } from "./style"
 
-const NAV_ITEMS = ["About", "FAQ"]
+const NAV_ITEMS = ["About"]
 
 export default class Navigation extends Component {
   state = {
@@ -96,7 +96,9 @@ export default class Navigation extends Component {
 
           <Mobile hide>{this.getNavList({})}</Mobile>
           <ActionsContainer>
-            <button>Sign Up</button>
+          <form action="mailto:kdube076@uottawa.ca">
+            <button type="submit">Contact Us</button>
+          </form>
           </ActionsContainer>
         </StyledContainer>
         <Mobile>

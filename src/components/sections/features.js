@@ -6,8 +6,8 @@ import { Section, Container } from "../global"
 const Features = () => (
   <Section id="about">
     <StyledContainer>
-      <Subtitle>Features</Subtitle>
-      <SectionTitle>Smart money management</SectionTitle>
+      <Subtitle>About</Subtitle>
+      <SectionTitle>Making the Process Easy</SectionTitle>
       <FeaturesGrid>
         <FeatureItem>
           <FeatureTitle>Notifications</FeatureTitle>
