@@ -4,21 +4,21 @@ import styled from "styled-components"
 import { Section, Container } from "../global"
 
 const Features = () => (
-  <Section id="about">
+  <Section id="features">
     <StyledContainer>
-      <Subtitle>About</Subtitle>
+      <Subtitle>Features</Subtitle>
       <SectionTitle>Immigration Made Simple</SectionTitle>
       <FeaturesGrid>
         <FeatureItem>
           <FeatureTitle>immigration database</FeatureTitle>
           <FeatureText>
-            Detailed instructions for every immigration system at over ten different countries
+            Detailed instructions for every immigration system at over ten different countries.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>automate the paperwork</FeatureTitle>
           <FeatureText>
-            Save time using our software to automate the repetetiveness of immigration applications
+            Save time using our software to automate the repetetiveness of immigration applications.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
@@ -30,12 +30,12 @@ const Features = () => (
         <FeatureItem>
           <FeatureTitle>nobordr fellowship</FeatureTitle>
           <FeatureText>
-            Hands-on mentorship for high-achieving 11th & 12th graders wanting to crush the university & internship process
+            Hands-on mentorship for high-achieving 11th & 12th graders wanting to crush the university & internship process.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>jobs & internships</FeatureTitle>
-          <FeatureText>Use our extensive guides on getting that internship and job you want.</FeatureText>
+          <FeatureText>Use our extensive guides on getting the internship and job you want.</FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>expert consultation</FeatureTitle>
