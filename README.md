@@ -1,2 +1,2 @@
 # bordr
-### Study, Work, & Live Abroad with ease.
+### Study, Work, & Live Abroad with Ease.
