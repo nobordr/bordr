@@ -7,41 +7,40 @@ const Features = () => (
   <Section id="about">
     <StyledContainer>
       <Subtitle>About</Subtitle>
-      <SectionTitle>Making the Process Easy</SectionTitle>
+      <SectionTitle>Immigration Made Simple</SectionTitle>
       <FeaturesGrid>
         <FeatureItem>
-          <FeatureTitle>Notifications</FeatureTitle>
+          <FeatureTitle>immigration database</FeatureTitle>
           <FeatureText>
-            Receive budget and spending alerts based on your favorite triggers.
+            Detailed instructions for every immigration system at over ten different countries
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Security</FeatureTitle>
+          <FeatureTitle>automate the paperwork</FeatureTitle>
           <FeatureText>
-            Your data is always safe with us as we use the latest security
-            protocols.
+            Save time using our software to automate the repetetiveness of immigration applications
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Automation</FeatureTitle>
+          <FeatureTitle>admissions calculator</FeatureTitle>
           <FeatureText>
-            Create smart automated workflows and triggers for your money.
+            Accurately understand your chances of getting accepted into any university or college.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Aggregation</FeatureTitle>
+          <FeatureTitle>nobordr fellowship</FeatureTitle>
           <FeatureText>
-            Easily link up to 5 banks to your finance account.
+            Hands-on mentorship for high-achieving 11th & 12th graders wanting to crush the university & internship process
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Payments</FeatureTitle>
-          <FeatureText>Send money to friends and family with ease.</FeatureText>
+          <FeatureTitle>jobs & internships</FeatureTitle>
+          <FeatureText>Use our extensive guides on getting that internship and job you want.</FeatureText>
         </FeatureItem>
         <FeatureItem>
-          <FeatureTitle>Rewards</FeatureTitle>
+          <FeatureTitle>expert consultation</FeatureTitle>
           <FeatureText>
-            High interest and rewards for hitting your goals.
+            Looking for 1 on 1 help? Get a hold of an expert consultant today!
           </FeatureText>
         </FeatureItem>
       </FeaturesGrid>

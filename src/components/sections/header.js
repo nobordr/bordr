@@ -31,7 +31,7 @@ const Header = () => {
             <h1>
               Study, Work, & Live
               <br />
-              abroad with ease
+              abroad with Ease.
             </h1>
             <h2>
               The world of immigration is complex. <br/> At bordr we make it simple.
