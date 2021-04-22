@@ -9,34 +9,34 @@ const Footer = () => (
       <FooterColumn>
         <span>Features</span>
         <ul>
-          <li>Automation</li>
-          <li>Rewards</li>
+          <li>Data Driven Tools</li>
+          <li>Immigration Expertise</li>
         </ul>
       </FooterColumn>
       <FooterColumn>
-        <span>Resources</span>
+        <span></span>
         <ul>
-          <li>Compare</li>
-          <li>Blog</li>
+          <li></li>
+          <li></li>
         </ul>
       </FooterColumn>
       <FooterColumn>
-        <span>Company</span>
+        <span></span>
         <ul>
-          <li>About Us</li>
-          <li>Careers</li>
+          <li></li>
+          <li></li>
         </ul>
       </FooterColumn>
       <FooterColumn>
         <span>Social</span>
         <ul>
-          <li>LinkedIn</li>
-          <li>Instagram</li>
+          <li><a style={{textDecoration: 'none', color: '#071435'}} href="https://www.linkedin.com/company/nobordr">LinkedIn</a></li>
+          <li><a style={{textDecoration: 'none', color: '#071435'}} href="https://www.linkedin.com/company/nobordr">Facebook</a></li>
         </ul>
       </FooterColumn>
     </FooterColumnContainer>
     <BrandContainer>
-      <Logo>Finance</Logo>
+      <Logo>bordr</Logo>
     </BrandContainer>
   </FooterWrapper>
 )

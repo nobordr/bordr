@@ -38,11 +38,11 @@ const Header = () => {
             </h2>
             <HeaderForm onSubmit={handleSubmit}>
               <HeaderInput placeholder="Your email" />
-              <HeaderButton>Early access</HeaderButton>
+              <HeaderButton><a target = '_blank' style={{textDecoration: 'none', color: '#ffffff'}} href="https://forms.gle/NGPm4t4JUFN1ckoU8">Get Early Access</a></HeaderButton>
             </HeaderForm>
             <FormSubtitle>
               Need help with anything?{" "}
-              <FormSubtitleLink to="/">Contact Us</FormSubtitleLink>
+              <FormSubtitleLink><a style={{textDecoration: 'none', color: '#098c8c'}} href="mailto:kdube076@uottawa.ca">Contact Us</a></FormSubtitleLink>
             </FormSubtitle>
           </HeaderTextGroup>
           <ImageWrapper>
