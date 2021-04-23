@@ -14,20 +14,6 @@ const Footer = () => (
         </ul>
       </FooterColumn>
       <FooterColumn>
-        <span></span>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </FooterColumn>
-      <FooterColumn>
-        <span></span>
-        <ul>
-          <li></li>
-          <li></li>
-        </ul>
-      </FooterColumn>
-      <FooterColumn>
         <span>Social</span>
         <ul>
           <li><a style={{textDecoration: 'none', color: '#071435'}} href="https://www.linkedin.com/company/nobordr">LinkedIn</a></li>
