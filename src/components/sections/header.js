@@ -27,22 +27,34 @@ const Header = () => {
       <Container>
         <Flex>
           <HeaderTextGroup>
-            <Subtitle>Start a New Journey</Subtitle>
+            <Subtitle>Revolutionize Your Career</Subtitle>
             <h1>
-              Study, Work, & Live
-              <br />
-              abroad with Ease.
+              Study & Work <br />
+              with Confidence
             </h1>
             <h2>
-              The world of immigration is complex. <br/> At bordr we make it simple.
+              Bordr revolutionizes student career workflows by integrating automation, machine learning, and expert guidance.<br />
+              Unlock new opportunities and simplify your path to success.
             </h2>
             <HeaderForm onSubmit={handleSubmit}>
               <HeaderInput placeholder="Your email" />
-              <HeaderButton><a target = '_blank' style={{textDecoration: 'none', color: '#ffffff'}} href="https://forms.gle/NGPm4t4JUFN1ckoU8">Get Early Access</a></HeaderButton>
+              <HeaderButton>
+                <a
+                  target="_blank"
+                  style={{ textDecoration: 'none', color: '#ffffff' }}
+                  href="https://forms.gle/NGPm4t4JUFN1ckoU8"
+                >
+                  Get Early Access
+                </a>
+              </HeaderButton>
             </HeaderForm>
             <FormSubtitle>
-              Need help with anything?{" "}
-              <FormSubtitleLink><a style={{textDecoration: 'none', color: '#098c8c'}} href="mailto:kdube076@uottawa.ca">Contact Us</a></FormSubtitleLink>
+              Need help or have questions?{" "}
+              <FormSubtitleLink>
+                <a style={{ textDecoration: 'none', color: '#098c8c' }} href="mailto:kdube076@uottawa.ca">
+                  Contact Us
+                </a>
+              </FormSubtitleLink>
             </FormSubtitle>
           </HeaderTextGroup>
           <ImageWrapper>

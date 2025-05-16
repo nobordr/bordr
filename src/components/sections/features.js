@@ -7,35 +7,35 @@ const Features = () => (
   <Section id="features">
     <StyledContainer>
       <Subtitle>Features</Subtitle>
-      <SectionTitle>Immigration Made Simple</SectionTitle>
+      <SectionTitle>Career Success Made Simple</SectionTitle>
       <FeaturesGrid>
         <FeatureItem>
-          <FeatureTitle>immigration database</FeatureTitle>
+          <FeatureTitle>career resources database</FeatureTitle>
           <FeatureText>
-            Detailed instructions for every immigration system at over ten different countries.
+            Detailed guides and resources for career planning and advancement in multiple countries.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>automate the paperwork</FeatureTitle>
           <FeatureText>
-            Save time using our software to automate the repetetiveness of immigration applications.
+            Save time using our software to automate repetitive application processes.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>admissions calculator</FeatureTitle>
           <FeatureText>
             Accurately understand your chances of getting accepted into any university or college.
-          </FeatureText>
+          </FeatureText> 
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>nobordr fellowship</FeatureTitle>
           <FeatureText>
-            Hands-on mentorship for high-achieving 11th & 12th graders wanting to crush the university & internship process.
+            Hands-on mentorship for high-achieving 11th & 12th graders wanting to excel in university & internship applications.
           </FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>jobs & internships</FeatureTitle>
-          <FeatureText>Use our extensive guides on getting the internship and job you want.</FeatureText>
+          <FeatureText>Use our extensive guides on landing the internship and job you want.</FeatureText>
         </FeatureItem>
         <FeatureItem>
           <FeatureTitle>expert consultation</FeatureTitle>

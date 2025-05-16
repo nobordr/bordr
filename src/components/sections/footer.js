@@ -10,7 +10,7 @@ const Footer = () => (
         <span>Features</span>
         <ul>
           <li>Data Driven Tools</li>
-          <li>Immigration Expertise</li>
+          <li>Career Expertise</li>
         </ul>
       </FooterColumn>
       <FooterColumn>

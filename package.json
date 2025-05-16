@@ -1,7 +1,7 @@
 {
   "name": "bordr",
   "private": true,
-  "description": "Study, Work, & Live abroad with ease",
+  "description": "Revolutionizing career-focused workflows for students with automation, machine learning, and expertise.",
   "version": "0.1.0",
   "author": "kdoobz",
   "dependencies": {
@@ -34,7 +34,7 @@
   "keywords": [
     "bordr",
     "Bordr",
-    "immigration",
+    "career",
     "nobordr",
     "nobordr fellowship",
     "Kish Dubey",
