@@ -7,7 +7,15 @@ const GetStarted = () => (
   <StyledSection>
     <GetStartedContainer>
       <GetStartedTitle>Be the first to get the beta.</GetStartedTitle>
-      <TryItButton><a target = '_blank' style={{textDecoration: 'none', color: '#ffffff'}} href="https://forms.gle/NGPm4t4JUFN1ckoU8">Get Early Access</a></TryItButton>
+      <TryItButton>
+        <a
+          target="_blank"
+          style={{ textDecoration: 'none', color: '#ffffff' }}
+          href="mailto:nobordr@gmail.com"
+        >
+          Get Early Access
+        </a>
+      </TryItButton>
       <Subtitle>Start Your Journey Today</Subtitle>
     </GetStartedContainer>
   </StyledSection>

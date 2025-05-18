@@ -33,8 +33,7 @@ const Header = () => {
               with Confidence
             </h1>
             <h2>
-              Bordr revolutionizes student career workflows by integrating automation, machine learning, and expert guidance.<br />
-              Unlock new opportunities and simplify your path to success.
+              Bordr revolutionizes student career workflows by integrating automation, machine learning, and expert guidance.
             </h2>
             <HeaderForm onSubmit={handleSubmit}>
               <HeaderInput placeholder="Your email" />
@@ -42,7 +41,7 @@ const Header = () => {
                 <a
                   target="_blank"
                   style={{ textDecoration: 'none', color: '#ffffff' }}
-                  href="https://forms.gle/NGPm4t4JUFN1ckoU8"
+                  href="mailto:nobordr@gmail.com"
                 >
                   Get Early Access
                 </a>
@@ -51,7 +50,7 @@ const Header = () => {
             <FormSubtitle>
               Need help or have questions?{" "}
               <FormSubtitleLink>
-                <a style={{ textDecoration: 'none', color: '#098c8c' }} href="mailto:kdube076@uottawa.ca">
+                <a style={{ textDecoration: 'none', color: '#098c8c' }} href="mailto:nobordr@gmail.com">
                   Contact Us
                 </a>
               </FormSubtitleLink>

@@ -96,7 +96,7 @@ export default class Navigation extends Component {
 
           <Mobile hide>{this.getNavList({})}</Mobile>
           <ActionsContainer>
-          <form action="mailto:kdube076@uottawa.ca">
+          <form action="mailto:nobordr@gmail.com">
             <button type="submit">Contact Us</button>
           </form>
           </ActionsContainer>
